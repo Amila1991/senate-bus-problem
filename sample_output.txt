@@ -1,0 +1,454 @@
+[uditha@hpdv6 lab4]$ java Runner 
+Thread # 8 Created for Bus Arrive
+Bus arrived.
+Bus departed.
+Thread # 9 Created for Passenger
+Passenger 1 came to the queue
+Number of waiting passengers = 1
+Thread # 10 Created for Passenger
+Thread # 10 Created for Passenger
+Thread # 12 Created for Passenger
+Passenger 2 came to the queue
+Number of waiting passengers = 2
+Thread # 13 Created for Passenger
+Passenger 3 came to the queue
+Thread # 14 Created for Passenger
+Number of waiting passengers = 3
+Thread # 17 Created for Passenger
+Thread # 16 Created for Passenger
+Thread # 18 Created for Passenger
+Thread # 15 Created for Passenger
+Passenger 4 came to the queue
+Thread # 19 Created for Passenger
+Thread # 20 Created for Passenger
+Number of waiting passengers = 4
+Passenger 5 came to the queue
+Number of waiting passengers = 5
+Thread # 21 Created for Passenger
+Passenger 6 came to the queue
+Number of waiting passengers = 6
+Thread # 22 Created for Passenger
+Thread # 23 Created for Passenger
+Thread # 24 Created for Passenger
+Passenger 7 came to the queue
+Number of waiting passengers = 7
+Passenger 8 came to the queue
+Number of waiting passengers = 8
+Thread # 26 Created for Passenger
+Passenger 9 came to the queue
+Number of waiting passengers = 9
+Thread # 25 Created for Passenger
+Passenger 10 came to the queue
+Thread # 27 Created for Passenger
+Number of waiting passengers = 10
+Passenger 11 came to the queue
+Thread # 28 Created for Passenger
+Number of waiting passengers = 11
+Thread # 29 Created for Passenger
+Passenger 12 came to the queue
+Number of waiting passengers = 12
+Passenger 13 came to the queue
+Number of waiting passengers = 13
+Thread # 32 Created for Passenger
+Thread # 30 Created for Passenger
+Thread # 31 Created for Passenger
+Passenger 14 came to the queue
+Thread # 34 Created for Passenger
+Number of waiting passengers = 14
+Passenger 15 came to the queue
+Number of waiting passengers = 15
+Passenger 16 came to the queue
+Thread # 33 Created for Passenger
+Number of waiting passengers = 16
+Thread # 35 Created for Passenger
+Passenger 17 came to the queue
+Number of waiting passengers = 17
+Passenger 18 came to the queue
+Thread # 36 Created for Passenger
+Number of waiting passengers = 18
+Passenger 19 came to the queue
+Number of waiting passengers = 19
+Thread # 37 Created for Passenger
+Passenger 20 came to the queue
+Number of waiting passengers = 20
+Thread # 38 Created for Passenger
+Thread # 40 Created for Passenger
+Passenger 21 came to the queue
+Number of waiting passengers = 21
+Thread # 39 Created for Passenger
+Passenger 22 came to the queue
+Thread # 42 Created for Passenger
+Thread # 41 Created for Passenger
+Thread # 43 Created for Passenger
+Number of waiting passengers = 22
+Thread # 44 Created for Passenger
+Passenger 23 came to the queue
+Thread # 45 Created for Passenger
+Thread # 46 Created for Passenger
+Number of waiting passengers = 23
+Passenger 24 came to the queue
+Thread # 47 Created for Passenger
+Number of waiting passengers = 24
+Thread # 48 Created for Passenger
+Passenger 25 came to the queue
+Number of waiting passengers = 25
+Passenger 26 came to the queue
+Number of waiting passengers = 26
+Thread # 49 Created for Passenger
+Passenger 27 came to the queue
+Thread # 50 Created for Passenger
+Number of waiting passengers = 27
+Passenger 28 came to the queue
+Number of waiting passengers = 28
+Thread # 54 Created for Passenger
+Thread # 52 Created for Passenger
+Thread # 51 Created for Passenger
+Passenger 29 came to the queue
+Number of waiting passengers = 29
+Passenger 30 came to the queue
+Number of waiting passengers = 30
+Thread # 55 Created for Passenger
+Passenger 31 came to the queue
+Number of waiting passengers = 31
+Thread # 58 Created for Passenger
+Passenger 32 came to the queue
+Number of waiting passengers = 32
+Passenger 33 came to the queue
+Number of waiting passengers = 33
+Thread # 59 Created for Bus Arrive
+Bus arrived.
+Thread # 71 Created for Passenger
+Thread # 72 Created for Passenger
+Thread # 73 Created for Passenger
+Passenger boarded
+Thread # 9 Created for Passenger
+Passenger boarded
+Thread # 70 Created for Passenger
+Thread # 11 Created for Passenger
+Thread # 11 Created for Passenger
+Thread # 11 Created for Passenger
+Thread # 74 Created for Passenger
+Thread # 74 Created for Passenger
+Passenger boarded
+Thread # 11 Created for Passenger
+Thread # 10 Created for Passenger
+Thread # 75 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 79 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 76 Created for Passenger
+Thread # 80 Created for Passenger
+Passenger boarded
+Thread # 76 Created for Passenger
+Thread # 17 Created for Passenger
+Thread # 77 Created for Passenger
+Thread # 77 Created for Passenger
+Thread # 78 Created for Passenger
+Thread # 82 Created for Passenger
+Thread # 81 Created for Passenger
+Thread # 83 Created for Passenger
+Thread # 85 Created for Passenger
+Thread # 86 Created for Passenger
+Thread # 87 Created for Passenger
+Thread # 88 Created for Passenger
+Thread # 84 Created for Passenger
+Thread # 84 Created for Passenger
+Passenger boarded
+Thread # 91 Created for Passenger
+Thread # 90 Created for Passenger
+Thread # 92 Created for Passenger
+Thread # 94 Created for Passenger
+Thread # 95 Created for Passenger
+Passenger boarded
+Thread # 12 Created for Passenger
+Thread # 21 Created for Passenger
+Passenger boarded
+Thread # 13 Created for Passenger
+Thread # 93 Created for Passenger
+Passenger boarded
+Thread # 14 Created for Passenger
+Passenger boarded
+Thread # 16 Created for Passenger
+Thread # 96 Created for Passenger
+Thread # 97 Created for Passenger
+Passenger boarded
+Thread # 25 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Thread # 100 Created for Passenger
+Thread # 99 Created for Passenger
+Thread # 98 Created for Passenger
+Passenger boarded
+Passenger boarded
+Thread # 101 Created for Passenger
+Thread # 102 Created for Passenger
+Thread # 103 Created for Passenger
+Thread # 104 Created for Passenger
+Thread # 105 Created for Passenger
+Passenger boarded
+Thread # 106 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Thread # 108 Created for Passenger
+Thread # 107 Created for Passenger
+Passenger boarded
+Passenger boarded
+Thread # 110 Created for Bus Arrive
+Thread # 109 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Bus departed.
+Passenger 34 came to the queue
+Number of waiting passengers = 1
+Passenger 35 came to the queue
+Number of waiting passengers = 2
+Passenger 36 came to the queue
+Number of waiting passengers = 3
+Passenger 37 came to the queue
+Number of waiting passengers = 4
+Passenger 38 came to the queue
+Number of waiting passengers = 5
+Passenger 39 came to the queue
+Number of waiting passengers = 6
+Passenger 40 came to the queue
+Number of waiting passengers = 7
+Passenger 41 came to the queue
+Number of waiting passengers = 8
+Passenger 42 came to the queue
+Number of waiting passengers = 9
+Passenger 43 came to the queue
+Number of waiting passengers = 10
+Passenger 44 came to the queue
+Number of waiting passengers = 11
+Passenger 45 came to the queue
+Number of waiting passengers = 12
+Passenger 46 came to the queue
+Number of waiting passengers = 13
+Passenger 47 came to the queue
+Number of waiting passengers = 14
+Passenger 48 came to the queue
+Number of waiting passengers = 15
+Passenger 49 came to the queue
+Number of waiting passengers = 16
+Passenger 50 came to the queue
+Number of waiting passengers = 17
+Passenger 51 came to the queue
+Number of waiting passengers = 18
+Passenger 52 came to the queue
+Number of waiting passengers = 19
+Passenger 53 came to the queue
+Number of waiting passengers = 20
+Passenger 54 came to the queue
+Number of waiting passengers = 21
+Passenger 55 came to the queue
+Number of waiting passengers = 22
+Passenger 56 came to the queue
+Number of waiting passengers = 23
+Passenger 57 came to the queue
+Number of waiting passengers = 24
+Passenger 58 came to the queue
+Number of waiting passengers = 25
+Passenger 59 came to the queue
+Number of waiting passengers = 26
+Passenger 60 came to the queue
+Number of waiting passengers = 27
+Passenger 61 came to the queue
+Number of waiting passengers = 28
+Passenger 62 came to the queue
+Number of waiting passengers = 29
+Passenger 63 came to the queue
+Number of waiting passengers = 30
+Passenger 64 came to the queue
+Number of waiting passengers = 31
+Passenger 65 came to the queue
+Number of waiting passengers = 32
+Passenger 66 came to the queue
+Number of waiting passengers = 33
+Passenger 67 came to the queue
+Number of waiting passengers = 34
+Passenger 68 came to the queue
+Number of waiting passengers = 35
+Passenger 69 came to the queue
+Number of waiting passengers = 36
+Passenger 70 came to the queue
+Number of waiting passengers = 37
+Passenger 71 came to the queue
+Number of waiting passengers = 38
+Passenger 72 came to the queue
+Number of waiting passengers = 39
+Passenger 73 came to the queue
+Number of waiting passengers = 40
+Passenger 74 came to the queue
+Number of waiting passengers = 41
+Passenger 75 came to the queue
+Number of waiting passengers = 42
+Passenger 76 came to the queue
+Number of waiting passengers = 43
+Passenger 77 came to the queue
+Number of waiting passengers = 44
+Passenger 78 came to the queue
+Number of waiting passengers = 45
+Passenger 79 came to the queue
+Number of waiting passengers = 46
+Passenger 80 came to the queue
+Number of waiting passengers = 47
+Passenger 81 came to the queue
+Number of waiting passengers = 48
+Passenger 82 came to the queue
+Number of waiting passengers = 49
+Passenger 83 came to the queue
+Number of waiting passengers = 50
+Passenger 84 came to the queue
+Number of waiting passengers = 51
+Passenger 85 came to the queue
+Number of waiting passengers = 52
+Passenger 86 came to the queue
+Number of waiting passengers = 53
+Passenger 87 came to the queue
+Number of waiting passengers = 54
+Passenger 88 came to the queue
+Number of waiting passengers = 55
+Passenger 89 came to the queue
+Number of waiting passengers = 56
+Passenger 90 came to the queue
+Number of waiting passengers = 57
+Passenger 91 came to the queue
+Number of waiting passengers = 58
+Passenger 92 came to the queue
+Number of waiting passengers = 59
+Passenger 93 came to the queue
+Number of waiting passengers = 60
+Passenger 94 came to the queue
+Number of waiting passengers = 61
+Passenger 95 came to the queue
+Number of waiting passengers = 62
+Passenger 96 came to the queue
+Number of waiting passengers = 63
+Passenger 97 came to the queue
+Number of waiting passengers = 64
+Passenger 98 came to the queue
+Number of waiting passengers = 65
+Passenger 99 came to the queue
+Number of waiting passengers = 66
+Passenger 100 came to the queue
+Number of waiting passengers = 67
+Passenger 101 came to the queue
+Number of waiting passengers = 68
+Passenger 102 came to the queue
+Number of waiting passengers = 69
+Passenger 103 came to the queue
+Number of waiting passengers = 70
+Passenger 104 came to the queue
+Number of waiting passengers = 71
+Passenger 105 came to the queue
+Number of waiting passengers = 72
+Passenger 106 came to the queue
+Number of waiting passengers = 73
+Passenger 107 came to the queue
+Number of waiting passengers = 74
+Passenger 108 came to the queue
+Number of waiting passengers = 75
+Passenger 109 came to the queue
+Number of waiting passengers = 76
+Bus arrived.
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Thread # 71 Created for Passenger
+Passenger boarded
+Thread # 72 Created for Passenger
+Passenger boarded
+Thread # 73 Created for Passenger
+Passenger boarded
+Passenger boarded
+Thread # 70 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Thread # 69 Created for Passenger
+Passenger boarded
+Passenger boarded
+Thread # 74 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Thread # 75 Created for Passenger
+Passenger boarded
+Thread # 60 Created for Passenger
+Thread # 64 Created for Passenger
+Passenger boarded
+Thread # 65 Created for Passenger
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Passenger boarded
+Bus departed.
+Passenger 110 came to the queue
+Number of waiting passengers = 27
+Passenger 111 came to the queue
+Number of waiting passengers = 28
+Passenger 112 came to the queue
+Number of waiting passengers = 29
+Passenger 113 came to the queue
+Number of waiting passengers = 30
+Passenger 114 came to the queue
+Number of waiting passengers = 31
+Passenger 115 came to the queue
+Number of waiting passengers = 32
+Passenger 116 came to the queue
+Number of waiting passengers = 33
+Passenger 117 came to the queue
+Number of waiting passengers = 34
+Passenger 118 came to the queue
+Number of waiting passengers = 35
+Passenger 119 came to the queue
+Number of waiting passengers = 36
+Passenger 120 came to the queue
+Number of waiting passengers = 37
+
