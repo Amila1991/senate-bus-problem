@@ -1,4 +1,4 @@
-senate_bus_problem
+Senate Bus Problem
 ===================
 
 Solution for "The Senate Bus Problem"

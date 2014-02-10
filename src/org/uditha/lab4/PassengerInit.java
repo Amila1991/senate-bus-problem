@@ -1,6 +1,6 @@
 package org.uditha.lab4;
 
-/*Bus Passenger worker ;Instantiated multiple times on top of one Synchronized object*/
+/*Passenger worker ;Instantiated multiple times on top of one Synchronized object*/
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
